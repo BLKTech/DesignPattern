@@ -20,7 +20,7 @@ namespace BLKTech\DesignPatterns;
  * Singleton Pattern
  *
  * @author https://stackoverflow.com/questions/203336/creating-the-singleton-design-pattern-in-php5
- * @author The Blankis < blankitoracing@gmail.com >
+ * @author TheKito < blankitoracing@gmail.com >
  */
 
 abstract class Singleton
